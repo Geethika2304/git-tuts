@@ -1,0 +1,10 @@
+Noun=input("enter noun:")
+verb=input("enter verb:")
+Adjective=input("enter adj:")
+Plural_Noun=input("enter plural noun:")
+Body_Part=input("enter body part:")
+Food_item=input("enter Food item:")
+place=input("enter place:")
+silly_word=input("enter silly word:")
+madlib=f"One day, a {Noun} decided to {verb} to the {Adjective} forest.Along the way, it saw {Plural_Noun} falling from the trees. The dog tripped over a rock and bumped its {Body_Part}. Ouch! it said, but then it remembered there was a {Food_item} waiting for it at the {place}. {silly_word} the dog shouted, and off it went! "
+print(madlib)
